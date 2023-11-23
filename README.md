@@ -57,8 +57,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/egstar/NewsForm
-- Live Site URL: [Add live site URL here](https://egstar.github.io/NewsForm)
+- Solution URL: [Solution](https://github.com/egstar/NewsForm)
+- Live Site URL: [Live site](https://egstar.github.io/NewsForm)
 
 ## My process
 
