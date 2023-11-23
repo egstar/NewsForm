@@ -87,8 +87,8 @@ None
 ## Author
 
 - Website - [Burham Soliman](https://www.burhams.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/egstar)
-- Twitter - [@yourusername](https://www.twitter.com/bori0o)
+- Frontend Mentor - [@egstar](https://www.frontendmentor.io/profile/egstar)
+- Twitter - [@bori0o](https://www.twitter.com/bori0o)
 
 ## Acknowledgments
 
